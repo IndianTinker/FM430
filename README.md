@@ -10,4 +10,6 @@ Check the project in action:
 
 [![Video](http://img.youtube.com/vi/r3fGMu5iPY8/0.jpg)](http://www.youtube.com/watch?v=r3fGMu5iPY8)
 
-Standalone operation is currently not supported and is the topic of discussion currently at [43oh.com forums](http://forum.43oh.com/topic/8515-wire-library-not-working-when-launchpad-powered-externally/)
+~~Standalone operation is currently not supported and is the topic of discussion currently at [43oh.com forums](http://forum.43oh.com/topic/8515-wire-library-not-working-when-launchpad-powered-externally/)~~
+
+It was a power supply issue, The mobile charger i was using was insanely noisy !
